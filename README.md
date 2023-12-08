@@ -1,6 +1,8 @@
 # Hackathon - CTF
 
-![alt-text](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpUN4S2L3CrgF7kjT2xlDvDoLbQ7zfIfI2-Wrr_FdTUyQADB9yy7fouoDqqeRpj155dddv1pmwlsxWeya68bG9-TlsD7qbJb2-YtSs7Qki09Dhi3G485ASOni2OkzO7KL6HfiKSxr2o9sSCX8DDXVH0WHFQ45GJ1yux_sJlrF4GkL4-V0QDqC-R3mQFg/s646/ctf_flag_logo.gif)
+<p align="center" width="100%">
+    <img width="33%" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpUN4S2L3CrgF7kjT2xlDvDoLbQ7zfIfI2-Wrr_FdTUyQADB9yy7fouoDqqeRpj155dddv1pmwlsxWeya68bG9-TlsD7qbJb2-YtSs7Qki09Dhi3G485ASOni2OkzO7KL6HfiKSxr2o9sSCX8DDXVH0WHFQ45GJ1yux_sJlrF4GkL4-V0QDqC-R3mQFg/s646/ctf_flag_logo.gif">
+</p>
 
 ## Sommaire
 - __[Introduction](#introduction)__
