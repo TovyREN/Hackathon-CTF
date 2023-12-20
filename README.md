@@ -29,6 +29,8 @@ Le but de ce CTF est d'atteindre le plus haut niveau de privilège sur la machin
 
 Lorsque vous trouverez un flag, il vous suffira de le rentrer sur la page TryHackMe de la room pour gagner des points.
 
+Tout d'abord créez un compte sur https://tryhackme.com/ puis mettez en place [OpenVPN](https://tryhackme.com/room/openvpn) pour pouvoir accéder aux rooms.
+
 ## Rooms
 
 ### Where is Hoppy?
